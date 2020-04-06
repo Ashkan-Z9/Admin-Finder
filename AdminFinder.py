@@ -452,7 +452,7 @@ def linux():
 	''')
 	print('\n\n' + '\033[33m--> Hello ' + systemName + '!')
 	print('--> ENTER YOUR TARGET,')
-	print('--> EXAMPLE: http & https://wwww.site.com/\n')
+	print('--> EXAMPLE: http & https://www.site.com/\n')
 	url = input("URL: ")
 	
 	panelCounter = 0
